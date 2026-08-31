@@ -108,7 +108,7 @@ display: flex;
 align-items: center;
 gap: 9px;
 padding: 10px 17px;
-border: 1px solid #202631;
+border: 1px solid #666666;
 border-radius: 6px;
 font-size: 12px;
 font-weight: 600;
@@ -572,7 +572,6 @@ padding-bottom: 0;
 .timeline-dot {
 position: absolute;
 left: -41px;
-top: 3px;
 width: 11px;
 height: 11px;
 border-radius: 50%;
